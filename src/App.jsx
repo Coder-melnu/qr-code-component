@@ -1,9 +1,6 @@
-import "./App.css";
-
+import QrCard from "./components/QrCard";
 function App() {
-
-
-  return <></>;
+  return <QrCard />;
 }
 
 export default App;
